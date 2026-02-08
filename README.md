@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](#)
 [![Monkeytype](https://img.shields.io/badge/Target-Monkeytype-orange.svg)](https://monkeytype.com/)
 
-MnkLightning is a performance-oriented utility designed for Monkeytype research and validation. It implements a sophisticated typing simulation that mimics human-like latency and imperfectness to analyze system responses to varied input patterns.
+MnkLightning is a performance-oriented cheat-hack designed for Monkeytype. It implements sophisticated typing logic that mimics human-like latency and imperfectness to provide a natural typing flow.
 
 <img width="1358" height="648" alt="Interface Preview" src="https://github.com/user-attachments/assets/f42ba747-a9ca-4f2b-9244-cf60153eda99" />
 
@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/ec3fa997-6859-400e-8672-d164c526ba7a
 
 This repository serves as a validation environment for `script_candidate.js`. The core logic focuses on:
 - Human-like latency modeling with randomized inter-keystroke intervals.
-- Error injection and correction simulation to emulate natural typing degradation.
+- Error injection and correction logic to emulate natural typing degradation.
 - High-efficiency input automation using browser-native state manipulation.
 
 ## Usage Instructions
@@ -59,7 +59,7 @@ If you use this research in your work, please cite it as follows:
 ```bibtex
 @software{MnkLightning2026,
   author = {algorembrant},
-  title = {MnkLightning: Human-Mimetic Typing Cheat-hack for Monkeytype},
+  title = {MnkLightning: Human-Like Typing Cheat-hack for Monkeytype},
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
