@@ -2,8 +2,8 @@
     console.log("%c Monkeytype Command Typer (execCommand) ", "background: #222; color: #ff0000; font-size: 20px");
 
     const CONFIG = {
-        minWPM: 160,      // Minimum expected WPM
-        maxWPM: 200,      // Maximum expected WPM
+        minWPM: 310,      // Minimum expected WPM
+        maxWPM: 550,      // Maximum expected WPM
         errorRate: 0.05,  // 15% chance to make a mistake
         accuracy: 95,     // Target accuracy (affects error correction)
         startDelay: 50,   // Delay before starting to type
